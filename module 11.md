@@ -1,5 +1,6 @@
 ## EXP NO : 21 C PROGRAM TO CREATE A FUNCTION TO FIND THE GREATEST NUMBER
-
+# Name: Nather Nabeel S.A.C
+# Reg No: 21222410040
 Aim:
 
 To write a C program to create a function to find the greatest number
