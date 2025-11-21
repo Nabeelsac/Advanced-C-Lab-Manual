@@ -1,5 +1,6 @@
 ## EXP NO:16 C PROGRAM TO SEARCH A GIVEN ELEMENT IN THE GIVEN LINKED LIST.
-
+# Name: Nather Nabeel S.A.C
+# Reg no: 212224100040
 Aim:
 
 To write a C program to search a given element in the given linked list.
