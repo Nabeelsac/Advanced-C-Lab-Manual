@@ -1,4 +1,6 @@
 ## EXP NO:11 C PROGRAM TO DISPLAY STACK ELEMENTS USING AN ARRAY.
+# Name: Nather Nabeel S.A.C
+# Reg No: 212224100040
 
 Aim:
 To write a C program to display stack elements using an array.
