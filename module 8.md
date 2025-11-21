@@ -1,5 +1,6 @@
 ## EXP NO:6 C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
-
+# Name: Nather Nabeel S.A.C
+# Reg No:212224100040
 Aim:
 
 To write a C program print the lowercase English word corresponding to the number
